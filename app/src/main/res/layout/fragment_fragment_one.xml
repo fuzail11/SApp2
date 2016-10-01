@@ -1,0 +1,21 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="layout.fragment_one">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageButton
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#000000"
+        android:src="@drawable/capti"
+        android:layout_gravity="right"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/company"/>
+
+
+</FrameLayout>
